@@ -1,0 +1,24 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "lodash常用方法",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve:array": "node array.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyskyblue/lodash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyskyblue/lodash/issues"
+  },
+  "homepage": "https://github.com/skyskyblue/lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
